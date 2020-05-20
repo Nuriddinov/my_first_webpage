@@ -1,0 +1,10 @@
+#banner{
+    
+    width: 600px;
+    height: 150px;
+    background-image: url(/img/logo.png), url(/img/flag.png);
+    background-position: center, center;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 100px, 300px;
+   
+}
